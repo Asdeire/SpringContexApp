@@ -74,7 +74,3 @@ Contributions to the practical work are welcome. Follow these steps to contribut
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Let me know if you need any more adjustments or additional details!
